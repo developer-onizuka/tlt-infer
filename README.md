@@ -1,6 +1,6 @@
 # 1. docker pull
 ```
-sudo docker pull nvcr.io/nvidia/tlt-streamanalytics:v3.0-dp-py3
+$ sudo docker pull nvcr.io/nvidia/tlt-streamanalytics:v3.0-dp-py3
 ```
 
 # 2. docker run
